@@ -36,11 +36,11 @@ perceptron-from-scratch/
 ## 🚀 Como Rodar
 
 ### No Google Colab (recomendado)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](SEU_LINK_AQUI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SHdVV6-OTGDhgR5J8BS6dPaWSzBTbK-v?usp=sharing)
 
 ### Localmente
 ```bash
-git clone https://github.com/SEU_USUARIO/perceptron-from-scratch.git
+git clone https://github.com/JoaoVOMendes/perceptron-from-scratch.git
 cd perceptron-from-scratch
 pip install numpy matplotlib scikit-learn
 jupyter notebook
